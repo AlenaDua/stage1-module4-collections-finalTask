@@ -74,7 +74,7 @@ public class DeveloperProjectFinder {
     public List<String> findDeveloperProject(Map<String, Set<String>> projects, String developer){
 
     }
-}
+ }
 ```
 
 ### Example
